@@ -316,5 +316,19 @@ public class JeecgDemoController extends JeecgController<JeecgDemo, IJeecgDemoSe
         return Result.OK("1");
     }
 
+    /**
+     * hello world
+     *
+     * @param
+     * @return
+     */
+//    @GetMapping(value = "/hello")
+//    public Result<String> hello() {
+//        Result<String> result = new Result<String>();
+//        result.setResult("Hello World!");
+//        result.setSuccess(true);
+//        return result;
+//    }
+
 
 }
